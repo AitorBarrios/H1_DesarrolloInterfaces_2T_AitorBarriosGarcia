@@ -1,0 +1,15 @@
+.form{
+    text-align: center;
+    margin-top: 5%;
+    background-color: black;
+    border-radius: 10px;
+    width: 450px;
+    height: 650px;
+    color: aliceblue;
+}
+
+.Registro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

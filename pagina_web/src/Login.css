@@ -1,0 +1,22 @@
+.form_log{
+    text-align: center;
+    margin-top: 5%;
+    background-color: black;
+    border-radius: 10px;
+    width: 200px;
+    height: 250px;
+    color: aliceblue;
+}
+
+.Login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bt{
+    border: none;
+    border-radius: 10px;
+    width: 120px;
+    height:50px
+}

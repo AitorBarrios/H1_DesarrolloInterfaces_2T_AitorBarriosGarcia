@@ -1,0 +1,36 @@
+.col-7{
+    background-color: black;
+    color: aliceblue;
+    height: 550px;
+    }
+    
+    #t2{
+        height: 100px;
+    }
+    
+    .formulario{
+        float:left;
+        width: 60%;
+    }
+    
+    .foto{
+        float: right;
+        width: 40%;
+    }
+    
+    #bt{
+        border: none;
+        border-radius: 10px;
+        width: 120px;
+        height:50px
+    }
+    
+    #serv1{
+        width: 10%;
+        height: 10%;
+    }
+    
+    #aura2{
+        width: 70%;
+        height:70%;
+    }
